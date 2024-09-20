@@ -35,7 +35,8 @@ To get a copy of the project, clone the repository to your local machine using G
 
 ```bash
 
-git clone https://github.com/ojakinlade/ethernet-vhdl-module.git
+git clone https://github.com/ojakinlade/Ethernet-VHDL-Module.git
+
 ```
 
 ## Next steps
