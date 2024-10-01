@@ -36,6 +36,8 @@ To get a copy of the project, clone the repository to your local machine using G
 git clone https://github.com/ojakinlade/Ethernet-VHDL-Module.git
 
 ```
+## Testbenches
+The testbench used to verify the `ethernet_tx` and `ethernet_rx` can be found in the `RTL/testbench` folder. The testbench can be run using any suitable VHDL simulator, Vivado was used in testing.
 
 ## Next steps
 
