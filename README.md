@@ -8,9 +8,7 @@ This repository contains VHDL implementations of Ethernet transmission(ethernet_
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Testbenches](#testbenches)
-- [Future Improvements](#future-improvements)
 - [Next Steps](#next-steps)
-- [License](#license)
 
 ## Overview
 
